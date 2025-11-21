@@ -1,0 +1,5 @@
+zebra
+cat
+elephant
+dog
+Man
